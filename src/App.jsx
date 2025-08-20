@@ -1,5 +1,5 @@
 import "./App.css";
-import LandingScreen from "./Components/landingScreen";
+import LandingScreen from "./Components/LandingScreen";
 import Profile from "./Components/Profile";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
